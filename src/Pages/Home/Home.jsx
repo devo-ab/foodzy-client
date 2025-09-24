@@ -1,3 +1,9 @@
+import { Button } from "@/components/ui/button";
+
 export default function Home() {
-  return <div>Hello Foodzy</div>;
+  return (
+    <div>
+      <h1>home page</h1>
+    </div>
+  );
 }
